@@ -1,0 +1,9 @@
+Breakfast: 04:58:08
+Grooming: 04:40:42
+Toileting: 04:20:34
+Sleeping: 13:03:31
+Leaving: 05:44:44
+Spare_Time/TV: 00:28:55
+Snack: 02:06:01
+Showering: 03:34:09
+Lunch: 07:13:31
